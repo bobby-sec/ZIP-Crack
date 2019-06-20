@@ -37,16 +37,7 @@ hhddddddy+s  ds+sd                      som    s+sm                             
 dhhhhhhyyyhm  dyhm  myyydddm             mdhyyyhd    hyd      mhyyyhd hyhm   dhyyyhm   dyhd    hyhm 
                     dyyy                                                                            
                      hhhdm                                                                          
-                     mdd                 
-
-
-  
-----------------------------------------------------------------------------------
-----------------------------------------------------------------------------------
-
-      
-                                    
- """
+                     mdd"""
 def extract(zFile,passwd):
     try:
         zFile.extractall(pwd=passwd)
